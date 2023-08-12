@@ -5,7 +5,7 @@
 	"results": [
 		{
 			"name": "Tatooine",
-			"rotation_period": "23",
+			"rotation_period": "25",
 			"orbital_period": "304",
 			"diameter": "10465",
 			"climate": "arid",
